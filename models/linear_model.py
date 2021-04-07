@@ -1,5 +1,5 @@
 import numpy as np
-from .base_estimator import BaseEstimator
+from .base_model import BaseEstimator
 
 class LinearModel(BaseEstimator):
     def __init__(self, mode):

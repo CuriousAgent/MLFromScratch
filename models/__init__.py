@@ -1,2 +1,2 @@
 from .linear_model import LinearRegression, LogisticRegression
-from .nearest_neighbor import NearestNeighborRegression, NearestNeighborClassifier
+from .nearest_neighbors import NearestNeighborRegression, NearestNeighborClassifier
