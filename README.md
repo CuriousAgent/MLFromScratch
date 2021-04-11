@@ -1,2 +1,2 @@
 # MLFromScratch
-Collection of some of most popular ML models implemented from scratch on top of NumPy and SciPy.
+Collection of some of the most popular ML models implemented from scratch on top of NumPy and SciPy.
